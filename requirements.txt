@@ -1,0 +1,16 @@
+click==8.1.8
+diffusers==0.32.2
+lmdb==1.6.2
+matplotlib==3.7.5
+numpy==1.24.3
+pandas==2.0.3
+Pillow==11.1.0
+psutil==6.0.0
+pyspng==0.1.2
+Requests==2.32.3
+SciencePlots==2.1.1
+scipy==1.15.2
+torch==2.4.1
+torchvision==0.20.0
+torchvision==0.13.1
+tqdm==4.67.1
